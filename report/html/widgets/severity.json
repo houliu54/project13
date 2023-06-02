@@ -1,0 +1,41 @@
+[ {
+  "uid" : "6e930947732919d0",
+  "name" : "用户名错误",
+  "time" : {
+    "start" : 1677485536854,
+    "stop" : 1677485536854,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1c923561d3383c61",
+  "name" : "密码错误",
+  "time" : {
+    "start" : 1677485536855,
+    "stop" : 1677485536855,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cccda9f5bed5036f",
+  "name" : "用户名或密码为空",
+  "time" : {
+    "start" : 1677485536856,
+    "stop" : 1677485536856,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ef75bbedbf935077",
+  "name" : "输入正确的用户名和密码能登录成功",
+  "time" : {
+    "start" : 1677485536852,
+    "stop" : 1677485536852,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

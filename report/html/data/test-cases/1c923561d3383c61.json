@@ -1,0 +1,62 @@
+{
+  "uid" : "1c923561d3383c61",
+  "name" : "密码错误",
+  "fullName" : "testpytest.test_pytest.Test#test_03",
+  "historyId" : "b914d5f6fcdef81ebdfbea59c960d1fd",
+  "time" : {
+    "start" : 1677485536855,
+    "stop" : 1677485536855,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "登录模块"
+  }, {
+    "name" : "story",
+    "value" : "登录失败场景"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testpytest"
+  }, {
+    "name" : "suite",
+    "value" : "test_pytest"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-EMAO8N7R"
+  }, {
+    "name" : "thread",
+    "value" : "12572-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testpytest.test_pytest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1c923561d3383c61.json",
+  "parameterValues" : [ ]
+}
